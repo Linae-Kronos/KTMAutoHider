@@ -1,5 +1,5 @@
 # KTMAutoHider
-KTM Auto Hider from http://addons.us.to/addon/ktmautohider
+KTM Auto Hider from http://addons.us.to/addon/ktmautohider.
 Automatically hides KLHThreatMeter if you are not in a raid or a party.
 
 ## Installation
